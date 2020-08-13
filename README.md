@@ -1,8 +1,6 @@
 
-# Good README Generator 
-Create a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command node index.js The user will be prompted for their GitHub username, which will be used to make a call to the GitHub API to retrieve their email and profile image. They will then be prompted with questions about their project.
-
-* [Installation](#Installation)
+# README Generator 
+Create a command-line application that dynamically generates a README.md from a user's input. The application will be called with the following command node index.js'
 
 * [Instructions](#Instructions)
 
@@ -23,16 +21,10 @@ user runs node index.js and the application starts
 ```
 ## License 
 This project is licensed under the MIT - see the MIT.md file for details
-### Terminal Screen Shot
-<img src="assets/terminalScreenShot.png" alt="drawing" />
+
 ### Terminal Screen Shot
 <img src="assets/ReadMeScreenShot.png" alt="drawing" />
 ### Author
 
-**SaraMunir**
+**dEmARCO hEATH**
 
-Email: null
-
-Location:Toronto
-
-GitHub: https://github.com/SaraMunir
